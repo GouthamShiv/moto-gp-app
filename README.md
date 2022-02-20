@@ -1,5 +1,7 @@
 # MotoGP
 
+# ⚠️ WORK IN PROGRESS ⚠️
+
 ## App to display MotoGP stats and rider data with race event calendar
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
